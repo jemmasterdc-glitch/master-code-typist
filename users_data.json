@@ -1,0 +1,12 @@
+{
+    "usuarios": {
+        "Admin": "12345"
+    },
+    "progreso": {
+        "Admin": {
+            "B\u00e1sico": 2,
+            "Intermedio": 0,
+            "Avanzado": 0
+        }
+    }
+}
