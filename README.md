@@ -2,7 +2,8 @@
 
 ¡Un tutor de mecanografía enfocado en la práctica de código de programación, desarrollado por José Espinoza!
 
-![Logo de Master Code Typist](https://i.imgur.com/3Y2j5A8.png) ## ✨ Características Principales
+![Logo de Master Code Typist](https://i.imgur.com/3Y2j5A8.png)
+## ✨ Características Principales
 
 - **Tres Modos de Operación:**
   - **Modo Independiente:** Para practicar en solitario y guardar tu progreso.
