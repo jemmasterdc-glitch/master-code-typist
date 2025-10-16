@@ -1,11 +1,8 @@
-# Archivos y carpetas generadas por PyInstaller
-dist/
-build/
-*.spec
-
-# El ejecutable final
-mastercode.exe
-
-# Archivos de caché de Python
+# Archivos y carpetas generados por Python
 __pycache__/
 *.pyc
+
+# Archivos y carpetas generados por PyInstaller
+/dist/
+/build/
+*.spec
