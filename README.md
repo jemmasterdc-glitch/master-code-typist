@@ -1,28 +1,43 @@
-# 🚀 Master Code Typist (MCT)
+# Master Code Typist
 
-## Descripción del Proyecto
+¡Un tutor de mecanografía enfocado en la práctica de código de programación, desarrollado por José Espinoza!
 
-**Master Code Typist (MCT)** es una aplicación de escritorio avanzada para el entrenamiento y la práctica de mecanografía, construida con Python y la biblioteca CustomTkinter.
+![Logo de Master Code Typist](https://i.imgur.com/3Y2j5A8.png) ## ✨ Características Principales
 
-Su característica principal es la capacidad de funcionar como un servidor, permitiendo el **monitoreo en tiempo real** de clientes conectados a través de la red local, ideal para entornos educativos o de entrenamiento corporativo.
+- **Tres Modos de Operación:**
+  - **Modo Independiente:** Para practicar en solitario y guardar tu progreso.
+  - **Modo Servidor (Profesor):** Permite a un profesor monitorear en tiempo real a múltiples estudiantes.
+  - **Modo Cliente (Estudiante):** Para conectarse a la sesión de un profesor.
+- **Niveles Progresivos:** Lecciones de nivel Básico, Intermedio y Avanzado para mejorar tus habilidades.
+- **Práctica Personalizada:** Carga tus propios archivos de código (`.py`, `.js`, `.txt`, etc.) para practicar con el contenido que tú elijas.
+- **Teclado Virtual Interactivo:** Te guía visualmente, mostrando la tecla correcta que debes presionar, incluyendo `Shift` para mayúsculas y símbolos.
+- **Métricas en Tiempo Real:** Mide tu rendimiento al instante con contadores de Palabras Por Minuto (PPM), Precisión y Errores.
 
----
+## 🚀 Cómo Usarlo
 
-## 💻 Características Principales
+### Opción 1: Descargar el Programa (EXE para Windows)
+La forma más fácil de empezar.
 
-* **Interfaz Moderna:** Interfaz gráfica de usuario (GUI) con CustomTkinter.
-* **Modo Servidor:** Capacidad para monitorear el progreso de múltiples usuarios (clientes) a través de la red.
-* **Almacenamiento Local:** Utiliza `users_data.json` para persistencia de datos de usuario.
-* **Empaquetado EXE:** La aplicación puede ser distribuida como un único ejecutable.
+1.  Ve a la sección de **[Releases](https://github.com/jemmasterdc-glitch/master-code-typist/releases)** en este repositorio.
+2.  Descarga el archivo `mastercode.exe` de la última versión.
+3.  ¡Ejecútalo y listo! No necesita instalación.
 
----
+### Opción 2: Ejecutar desde el Código Fuente
+Si eres un desarrollador y quieres modificar el código.
 
-## ⚙️ Instalación y Uso (Desarrollo)
+1.  Asegúrate de tener Python 3 instalado.
+2.  Clona o descarga este repositorio.
+3.  Abre una terminal en la carpeta del proyecto e instala las dependencias:
+    ```
+    pip install customtkinter Pillow
+    ```
+4.  Ejecuta el script:
+    ```
+    python mastercode.py
+    ```
 
-Si deseas clonar y ejecutar el código fuente (`.py`), sigue estos pasos:
+## 📄 Licencia
 
-### 1. Clonar el Repositorio
+Este proyecto es de código abierto y se distribuye bajo una licencia de atribución simple. Eres libre de usar, modificar y distribuir el código como desees, con la única condición de dar crédito al autor original de la idea.
 
-```bash
-git clone [https://github.com/jemmasterdc-glitch/master-code-typist.git](https://github.com/jemmasterdc-glitch/master-code-typist.git)
-cd master-code-typist
+*Basado en el Master Code Typist original de José Espinoza.*
