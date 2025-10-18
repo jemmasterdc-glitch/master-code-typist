@@ -42,8 +42,8 @@ Si eres un desarrollador y quieres modificar el código.
 
 Si este software de código abierto ha sido útil en tu aprendizaje o desarrollo, considera apoyar el mantenimiento y las nuevas funcionalidades. ¡Tu contribución ayuda directamente a crear más programas y contenido educativo gratuito!
 
-[**➡️ ¡Dona para apoyar a JEMMaster vía PayPal.Me!**](https://www.paypal.me/SuNombreDeUsuario)
-**(Recuerde cambiar "SuNombreDeUsuario" por su enlace real)**
+[**➡️ ¡Dona para apoyar a JEMMaster vía PayPal.Me!**]
+](https://paypal.me/JEMMasterdc)
 
 ---
 
